@@ -222,7 +222,7 @@ mvn -Drevision=2.7.8 -Dchangelist= clean package
     <plugin>
       <groupId>org.codehaus.mojo</groupId>
       <artifactId>flatten-maven-plugin</artifactId>
-      <version>1.0.0</version>
+      <version>1.1.0</version>
       <configuration>
         <updatePomFile>true</updatePomFile>
       </configuration>
